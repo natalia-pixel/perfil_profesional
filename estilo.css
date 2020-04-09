@@ -65,4 +65,8 @@ div {
     font-size: 15px;
     display: flex; 
     flex-direction: column;
+    object-fit: none;
+}
+p.img{
+    text-align: right;
 }
